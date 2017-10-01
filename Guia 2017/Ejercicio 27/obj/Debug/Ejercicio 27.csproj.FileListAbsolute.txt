@@ -1,0 +1,6 @@
+E:\2017 Segundo\Programacion - Lab II\Guia 2017\Ejercicio 27\bin\Debug\Ejercicio 27.exe.config
+E:\2017 Segundo\Programacion - Lab II\Guia 2017\Ejercicio 27\bin\Debug\Ejercicio 27.exe
+E:\2017 Segundo\Programacion - Lab II\Guia 2017\Ejercicio 27\bin\Debug\Ejercicio 27.pdb
+E:\2017 Segundo\Programacion - Lab II\Guia 2017\Ejercicio 27\obj\Debug\Ejercicio 27.exe
+E:\2017 Segundo\Programacion - Lab II\Guia 2017\Ejercicio 27\obj\Debug\Ejercicio 27.pdb
+E:\2017 Segundo\Programacion - Lab II\Guia 2017\Ejercicio 27\obj\Debug\Ejercicio 27.csprojResolveAssemblyReference.cache
